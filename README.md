@@ -135,6 +135,37 @@ This bot (posting exclusively to @x_darksouls_y) searches recent Tweets for the 
 
 ## Employment
 
+<strong><a href="https://capsule.com/" target="_blank">Capsule</a></strong> <em>2020 - present</em>
+
+<small>sr. frontend engineer</small>
+
+Kevin is a Senior Frontend Engineer on the Logistics and Fulfillment Services team.
+
+<small><strong>Language(s):</strong></small>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-777777)
+![TypeScript](https://img.shields.io/badge/-TypeScript-777777)
+![HTML](https://img.shields.io/badge/-HTML-777777)
+![CSS](https://img.shields.io/badge/-CSS-777777)
+![SASS](https://img.shields.io/badge/-SASS-777777)
+![Python](https://img.shields.io/badge/-Python-777777)
+![Bash](https://img.shields.io/badge/-Bash-777777)
+
+<small><strong>Tech:</strong></small>
+
+![React](https://img.shields.io/badge/-React-777777)
+![NodeJS](https://img.shields.io/badge/-NodeJS-777777)
+![NPM](https://img.shields.io/badge/-NPM-777777)
+![Webpack](https://img.shields.io/badge/-Webpack-777777)
+![Babel](https://img.shields.io/badge/-Babel-777777)
+![REST](https://img.shields.io/badge/-REST-777777)
+![GraphQL](https://img.shields.io/badge/-GraphQL-777777)
+![Git](https://img.shields.io/badge/-Git-777777)
+![Docker](https://img.shields.io/badge/-Docker-777777)
+![Make](https://img.shields.io/badge/-Make-777777)
+
+---
+
 <strong><a href="https://ampermusic.com/" target="_blank">Amper Music</a></strong> <em>2016 - 2020</em>
 
 <small>sr. frontend engineer</small>
