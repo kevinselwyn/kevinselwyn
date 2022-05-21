@@ -38,6 +38,28 @@ Kevin is a highly motivated self-starter with 10+ years of professional web deve
 
 ## Personal Projects
 
+<strong>pkmnapi</strong>
+
+<small><a href="https://github.com/pkmn-api/pkmnapi" target="_blank">https://github.com/pkmn-api/pkmnapi</a></small>
+
+A Pokémon REST API that uses a Gen 1 Game Boy ROM as its data source.
+
+Designed, documented, and implemented a RESTful API service.
+
+<small><strong>Language(s):</strong></small>
+
+![Rust](https://img.shields.io/badge/-Rust-777777)
+![SQL](https://img.shields.io/badge/-SQL-777777)
+
+<small><strong>Tech:</strong></small>
+
+![Cargo](https://img.shields.io/badge/-Cargo-777777)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-777777)
+![Heroku](https://img.shields.io/badge/-Heroku-777777)
+![Github Actions](https://img.shields.io/badge/-Github%20Actions-777777)
+
+---
+
 <strong>Nessemble</strong>
 
 <small><a href="https://github.com/kevinselwyn/nessemble" target="_blank">https://github.com/kevinselwyn/nessemble</a></small>
@@ -95,26 +117,6 @@ Proof-of-concept to demonstrate how unbelievably easy it is to embed JavaScript 
 
 ---
 
-<strong>LEGO Enhanced Graphics Object</strong>
-
-<small><a href="https://github.com/kevinselwyn/lego" target="_blank">https://github.com/kevinselwyn/lego</a></small>
-
-A file format for representing 2D LEGO brick images.
-
-Building off practical experience with block-based file formats, this file format is simple and extensible.
-
-<small><strong>Language(s):</strong></small>
-
-![C](https://img.shields.io/badge/-C-777777)
-
-<small><strong>Tech:</strong></small>
-
-![libpng](https://img.shields.io/badge/-libpng-777777)
-![libjpeg](https://img.shields.io/badge/-libjpeg-777777)
-![GCC](https://img.shields.io/badge/-GCC-777777)
-
----
-
 <strong>x-darksouls-y</strong>
 
 <small><a href="https://github.com/kevinselwyn/x-darksouls-y" target="_blank">https://github.com/kevinselwyn/x-darksouls-y</a></small>
@@ -137,32 +139,52 @@ This bot (posting exclusively to @x_darksouls_y) searches recent Tweets for the 
 
 <strong><a href="https://capsule.com/" target="_blank">Capsule</a></strong> <em>2020 - present</em>
 
-<small>sr. frontend engineer</small>
+<small>staff frontend engineer</small>
 
-Kevin is a Senior Frontend Engineer on the Logistics and Fulfillment Services team.
+Kevin is a Staff Software Engineer/Tech Lead on the Internal Operations team.
+
+He regularly works with stakeholders on the Product and Design teams to ensure that new product features are delivered fast and right.
+
+Kevin also helps lead a squad of engineers to ensure solid and lasting architectural decisions are made through in-depth technical specifications and code reviews.
 
 <small><strong>Language(s):</strong></small>
 
+![Python](https://img.shields.io/badge/-Python-777777)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-777777)
+![Kotlin](https://img.shields.io/badge/-Kotlin-777777)
+![Bash](https://img.shields.io/badge/-Bash-777777)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-777777)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-777777)
 ![HTML](https://img.shields.io/badge/-HTML-777777)
 ![CSS](https://img.shields.io/badge/-CSS-777777)
 ![SASS](https://img.shields.io/badge/-SASS-777777)
-![Python](https://img.shields.io/badge/-Python-777777)
-![Bash](https://img.shields.io/badge/-Bash-777777)
 
 <small><strong>Tech:</strong></small>
 
+![Django](https://img.shields.io/badge/-Django-777777)
+![AWS](https://img.shields.io/badge/-AWS-777777)
+![Cognito](https://img.shields.io/badge/-Cognito-777777)
+![ElastiCache](https://img.shields.io/badge/-ElastiCache-777777)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-777777)
+![RDS](https://img.shields.io/badge/-RDS-777777)
+![SQS](https://img.shields.io/badge/-SQS-777777)
+![SNS](https://img.shields.io/badge/-SNS-777777)
+![CloudWatch](https://img.shields.io/badge/-CloudWatch-777777)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-777777)
+![S3](https://img.shields.io/badge/-S3-777777)
 ![React](https://img.shields.io/badge/-React-777777)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-777777)
 ![NPM](https://img.shields.io/badge/-NPM-777777)
 ![Webpack](https://img.shields.io/badge/-Webpack-777777)
-![Babel](https://img.shields.io/badge/-Babel-777777)
 ![REST](https://img.shields.io/badge/-REST-777777)
-![GraphQL](https://img.shields.io/badge/-GraphQL-777777)
 ![Git](https://img.shields.io/badge/-Git-777777)
 ![Docker](https://img.shields.io/badge/-Docker-777777)
 ![Make](https://img.shields.io/badge/-Make-777777)
+![Jenkins](https://img.shields.io/badge/-Jenkins-777777)
+![CodeFresh](https://img.shields.io/badge/-CodeFresh-777777)
+![Prometheus](https://img.shields.io/badge/-Prometheus-777777)
+![Grafana](https://img.shields.io/badge/-Grafana-777777)
+![Loki](https://img.shields.io/badge/-Loki-777777)
 
 ---
 
