@@ -1,6 +1,6 @@
 # Kevin Selwyn
 
-## Frontend Engineer
+## Software Engineer
 
 * [Contact](#user-content-contact)
 * [Profile](#user-content-profile)
@@ -34,7 +34,7 @@
 
 ## Profile
 
-Kevin is a highly motivated self-starter with 10+ years of professional web development and software development experience. He has a tenacious drive to learn and he has a passion for improving the user experience.
+Kevin has 12+ years of professional software engineering experience. He has a tenacious drive to learn and he has a passion for improving both the user and developer experience.
 
 ## Personal Projects
 
