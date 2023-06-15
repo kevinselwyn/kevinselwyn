@@ -137,9 +137,15 @@ This bot (posting exclusively to @x_darksouls_y) searches recent Tweets for the 
 
 ## Employment
 
-<strong><a href="https://capsule.com/" target="_blank">Capsule</a></strong> <em>2020 - present</em>
+<strong><a href="https://www.alloy.com/" target="_blank">Alloy</a><strong> <em>2023 - present</em>
 
-<small>staff frontend engineer</small>
+<small>senior software engineer</small>
+
+---
+
+<strong><a href="https://capsule.com/" target="_blank">Capsule</a></strong> <em>2020 - 2023</em>
+
+<small>staff software engineer</small>
 
 Kevin is a Staff Software Engineer/Tech Lead on the Internal Operations team.
 
