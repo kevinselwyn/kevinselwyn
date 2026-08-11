@@ -34,9 +34,40 @@
 
 ## Profile
 
-Kevin has 12+ years of professional software engineering experience. He has a tenacious drive to learn and he has a passion for improving both the user and developer experience.
+Kevin has 15+ years of professional software engineering experience. He has a tenacious drive to learn and he has a passion for improving both the user and developer experience.
 
 ## Personal Projects
+
+<strong>Nessemble</strong>
+
+<small><a href="https://github.com/kevinselwyn/nessemble" target="_blank">https://github.com/kevinselwyn/nessemble</a></small>
+
+A 6502 assembler for the Nintendo Entertainment System, written in Rust.
+
+A ground-up rewrite of an origional C assembler with a hand-written lexer, recursive-descent parser, and two-pass code generator supporting macros.
+
+Ships a LSP for editor integration and a WebAssembly build that assembles ROMs entirely client-side in the browser.
+
+<small><strong>Language(s):</strong></small>
+
+![Rust](https://img.shields.io/badge/-Rust-777777)
+![6502 Assembly](https://img.shields.io/badge/-6502%20Assembly-777777)
+![WASM](https://img.shields.io/badge/-WASM-777777)
+![TypeScript](https://img.shields.io/badge/-TypeScript-777777)
+![JavaScript](https://img.shields.io/badge/-JavaScript-777777)
+![HTML](https://img.shields.io/badge/-HTML-777777)
+![CSS](https://img.shields.io/badge/-CSS-777777)
+![Bash](https://img.shields.io/badge/-Bash-777777)
+
+<small><strong>Tech:</strong></small>
+
+![Cargo](https://img.shields.io/badge/-Cargo-777777)
+![Language Server Protocol](https://img.shields.io/badge/-Language%20Server%20Protocol-777777)
+![WebAssembly](https://img.shields.io/badge/-WebAssembly-777777)
+![Docker](https://img.shields.io/badge/-Docker-777777)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-777777)
+
+---
 
 <strong>pkmnapi</strong>
 
@@ -60,43 +91,6 @@ Designed, documented, and implemented a RESTful API service.
 
 ---
 
-<strong>Nessemble</strong>
-
-<small><a href="https://github.com/kevinselwyn/nessemble" target="_blank">https://github.com/kevinselwyn/nessemble</a></small>
-
-A 6502 assembler for the Nintendo Entertainment System.
-
-Challenges included creating a custom BNF grammar and compiling to WASM to run in the browser.
-
-<small><strong>Language(s):</strong></small>
-
-![C](https://img.shields.io/badge/-C-777777)
-![Lua](https://img.shields.io/badge/-Lua-777777)
-![Scheme](https://img.shields.io/badge/-Scheme-777777)
-![JavaScript](https://img.shields.io/badge/-JavaScript-777777)
-![WASM](https://img.shields.io/badge/-WASM-777777)
-![6502 Assembly](https://img.shields.io/badge/-6502%20Assembly-777777)
-![Python](https://img.shields.io/badge/-Python-777777)
-![SQL](https://img.shields.io/badge/-SQL-777777)
-
-<small><strong>Tech:</strong></small>
-
-![Flex](https://img.shields.io/badge/-Flex-777777)
-![Bison](https://img.shields.io/badge/-Bison-777777)
-![Flask](https://img.shields.io/badge/-Flask-777777)
-![Emscripten](https://img.shields.io/badge/-Emscripten-777777)
-![Vagrant](https://img.shields.io/badge/-Vagrant-777777)
-![Ubuntu Linux](https://img.shields.io/badge/-Ubuntu%20Linux-777777)
-![GCC](https://img.shields.io/badge/-GCC-777777)
-![MinGW](https://img.shields.io/badge/-MinGW-777777)
-![MSI](https://img.shields.io/badge/-MSI-777777)
-![Valgrind](https://img.shields.io/badge/-Valgrind-777777)
-![Splint](https://img.shields.io/badge/-Splint-777777)
-![Yarn](https://img.shields.io/badge/-Yarn-777777)
-![NPM](https://img.shields.io/badge/-NPM-777777)
-
----
-
 <strong>canvas-steg</strong>
 
 <small><a href="https://github.com/kevinselwyn/canvas-steg" target="_blank">https://github.com/kevinselwyn/canvas-steg</a></small>
@@ -115,31 +109,57 @@ Proof-of-concept to demonstrate how unbelievably easy it is to embed JavaScript 
 ![NPM](https://img.shields.io/badge/-NPM-777777)
 ![Webpack](https://img.shields.io/badge/-Webpack-777777)
 
----
-
-<strong>x-darksouls-y</strong>
-
-<small><a href="https://github.com/kevinselwyn/x-darksouls-y" target="_blank">https://github.com/kevinselwyn/x-darksouls-y</a></small>
-
-Twitter bot that tells you what X is the Dark Souls of.
-
-This bot (posting exclusively to @x_darksouls_y) searches recent Tweets for the phrase "is harder than" and replaces it with "is the Dark Souls of".
-
-<small><strong>Language(s):</strong></small>
-
-![Python](https://img.shields.io/badge/-Python-777777)
-
-<small><strong>Tech:</strong></small>
-
-![Heroku](https://img.shields.io/badge/-Heroku-777777)
-![Flask](https://img.shields.io/badge/-Flask-777777)
-![Twitter API](https://img.shields.io/badge/-Twitter%20API-777777)
-
 ## Employment
 
 <strong><a href="https://www.alloy.com/" target="_blank">Alloy</a><strong> <em>2023 - present</em>
 
-<small>senior software engineer</small>
+<small>sr. software engineer ii</small>
+
+Kevin is a Senior Software Engineer on the GenAI squad, where he designs and builds the LLM and agentic platform behind Alloy's AI-assisted identity risk and fraud review products.
+
+He champions the use of Server-Sent Events for LLM response streaming and contributes heavily to Alloy's in-house agent harness and tool-calling framework as well as an evaluations framework for automatic prompt optimization and data-driven model selection.
+
+Kevin regularly works with stakeholders on Product and Design teams to scope and deliver features through in-depth technical specifications and code reviews.
+
+<small><strong>Language(s):</strong></small>
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-777777)
+![JavaScript](https://img.shields.io/badge/-JavaScript-777777)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-777777)
+![HCL](https://img.shields.io/badge/-HCL-777777)
+![YAML](https://img.shields.io/badge/-YAML-777777)
+![Bash](https://img.shields.io/badge/-Bash-777777)
+![HTML](https://img.shields.io/badge/-HTML-777777)
+![CSS](https://img.shields.io/badge/-CSS-777777)
+![SASS](https://img.shields.io/badge/-SASS-777777)
+
+<small><strong>Tech:</strong></small>
+
+![React](https://img.shields.io/badge/-React-777777)
+![NodeJS](https://img.shields.io/badge/-NodeJS-777777)
+![AWS](https://img.shields.io/badge/-AWS-777777)
+![Bedrock](https://img.shields.io/badge/-Bedrock-777777)
+![S3](https://img.shields.io/badge/-S3-777777)
+![SQS](https://img.shields.io/badge/-SQS-777777)
+![Textract](https://img.shields.io/badge/-Textract-777777)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-777777)
+![Redis](https://img.shields.io/badge/-Redis-777777)
+![OpenSearch](https://img.shields.io/badge/-OpenSearch-777777)
+![Snowflake](https://img.shields.io/badge/-Snowflake-777777)
+![Redshift](https://img.shields.io/badge/-Redshift-777777)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-777777)
+![Helm](https://img.shields.io/badge/-Helm-777777)
+![Terraform](https://img.shields.io/badge/-Terraform-777777)
+![Docker](https://img.shields.io/badge/-Docker-777777)
+![Datadog](https://img.shields.io/badge/-Datadog-777777)
+![REST](https://img.shields.io/badge/-REST-777777)
+![Server-Sent Events](https://img.shields.io/badge/-Server-Sent%20Events-777777)
+![Vite](https://img.shields.io/badge/-Vite-777777)
+![Storybook](https://img.shields.io/badge/-Storybook-777777)
+![NPM](https://img.shields.io/badge/-NPM-777777)
+![Git](https://img.shields.io/badge/-Git-777777)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-777777)
+![Figma](https://img.shields.io/badge/-Figma-777777)
 
 ---
 
@@ -331,54 +351,58 @@ Kevin created and maintained websites in a timely fashion and worked closely wit
 <strong>Language(s):</strong>
 
 ![6502 Assembly](https://img.shields.io/badge/-6502%20Assembly-777777)
-![ActionScript](https://img.shields.io/badge/-ActionScript-777777)
 ![Bash](https://img.shields.io/badge/-Bash-777777)
 ![C](https://img.shields.io/badge/-C-777777)
-![C#](https://img.shields.io/badge/-C%23-777777)
-![ColdFusion](https://img.shields.io/badge/-ColdFusion-777777)
 ![CSS](https://img.shields.io/badge/-CSS-777777)
-![Flash](https://img.shields.io/badge/-Flash-777777)
+![HCL](https://img.shields.io/badge/-HCL-777777)
 ![HTML](https://img.shields.io/badge/-HTML-777777)
-![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-777777)
-![Java](https://img.shields.io/badge/-Java-777777)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-777777)
+![Kotlin](https://img.shields.io/badge/-Kotlin-777777)
 ![Lua](https://img.shields.io/badge/-Lua-777777)
 ![PHP](https://img.shields.io/badge/-PHP-777777)
 ![Python](https://img.shields.io/badge/-Python-777777)
 ![Rust](https://img.shields.io/badge/-Rust-777777)
 ![SASS](https://img.shields.io/badge/-SASS-777777)
-![Scheme](https://img.shields.io/badge/-Scheme-777777)
 ![SQL](https://img.shields.io/badge/-SQL-777777)
-![Swift](https://img.shields.io/badge/-Swift-777777)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-777777)
 ![WASM](https://img.shields.io/badge/-WASM-777777)
+![YAML](https://img.shields.io/badge/-YAML-777777)
 
 <strong>Tech:</strong>
 
 ![Adobe Creative Suite](https://img.shields.io/badge/-Adobe%20Creative%20Suite-777777)
 ![AWS](https://img.shields.io/badge/-AWS-777777)
+![Bedrock](https://img.shields.io/badge/-Bedrock-777777)
 ![Cargo](https://img.shields.io/badge/-Cargo-777777)
-![EC2](https://img.shields.io/badge/-EC2-777777)
-![Emscripten](https://img.shields.io/badge/-Emscripten-777777)
-![Flask](https://img.shields.io/badge/-Flask-777777)
-![GCC](https://img.shields.io/badge/-GCC-777777)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-777777)
+![Cursor](https://img.shields.io/badge/-Cursor-777777)
+![Datadog](https://img.shields.io/badge/-Datadog-777777)
+![Django](https://img.shields.io/badge/-Django-777777)
+![Docker](https://img.shields.io/badge/-Docker-777777)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-777777)
+![Figma](https://img.shields.io/badge/-Figma-777777)
 ![Git](https://img.shields.io/badge/-Git-777777)
-![GraphQL](https://img.shields.io/badge/-GraphQL-777777)
-![Haxe](https://img.shields.io/badge/-Haxe-777777)
-![Heroku](https://img.shields.io/badge/-Heroku-777777)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-777777)
+![Helm](https://img.shields.io/badge/-Helm-777777)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-777777)
 ![Make](https://img.shields.io/badge/-Make-777777)
-![MySQL](https://img.shields.io/badge/-MySQL-777777)
+![MCP](https://img.shields.io/badge/-MCP-777777)
+![NestJS](https://img.shields.io/badge/-NestJS-777777)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-777777)
 ![NPM](https://img.shields.io/badge/-NPM-777777)
+![OpenSearch](https://img.shields.io/badge/-OpenSearch-777777)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-777777)
 ![React](https://img.shields.io/badge/-React-777777)
+![Redis](https://img.shields.io/badge/-Redis-777777)
 ![REST](https://img.shields.io/badge/-REST-777777)
 ![S3](https://img.shields.io/badge/-S3-777777)
-![SVN](https://img.shields.io/badge/-SVN-777777)
-![Ubuntu Linux](https://img.shields.io/badge/-Ubuntu%20Linux-777777)
-![Vagrant](https://img.shields.io/badge/-Vagrant-777777)
-![Webpack](https://img.shields.io/badge/-Webpack-777777)
-![Wordpress](https://img.shields.io/badge/-Wordpress-777777)
-![Yarn](https://img.shields.io/badge/-Yarn-777777)
+![Server-Sent Events](https://img.shields.io/badge/-Server-Sent%20Events-777777)
+![Snowflake](https://img.shields.io/badge/-Snowflake-777777)
+![SQS](https://img.shields.io/badge/-SQS-777777)
+![Storybook](https://img.shields.io/badge/-Storybook-777777)
+![Terraform](https://img.shields.io/badge/-Terraform-777777)
+![Vite](https://img.shields.io/badge/-Vite-777777)
+![WebAssembly](https://img.shields.io/badge/-WebAssembly-777777)
 
 ## Interests
 
