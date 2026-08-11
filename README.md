@@ -40,7 +40,7 @@ Kevin has 15+ years of professional software engineering experience. He has a te
 
 <strong>Nessemble</strong>
 
-<small><a href="https://github.com/kevinselwyn/nessemble-rs" target="_blank">https://github.com/kevinselwyn/nessemble</a></small>
+<small><a href="https://github.com/kevinselwyn/nessemble-rs" target="_blank">https://github.com/kevinselwyn/nessemble-rs</a></small>
 
 A 6502 assembler for the Nintendo Entertainment System, written in Rust.
 
